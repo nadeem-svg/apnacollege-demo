@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repository
 <br>
-Auther Shradha khapra
+Auther Shradha (apna college)
